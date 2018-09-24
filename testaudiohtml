@@ -1,4 +1,4 @@
-<audio>
-<source src= “The Future of... Credits Music.mp3” controls=”controls” loop=”loop”>
+<audio loop>
+<source src= “The Future of... Credits Music.mp3” controls=”controls”>
 Sorry, your browser can't handle these nasty beat
 </audio>
