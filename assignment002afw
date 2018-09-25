@@ -1,0 +1,47 @@
+<h1>Cave Audio Dynamics Example</h1>
+<img src="https://78.media.tumblr.com/ed886de278c057a753187349de5a9ad7/tumblr_pfmc21MElQ1wb545bo1_r1_1280.jpg" alt="Cross-section of cave">
+<p>
+    <label for="echo1">
+        Echo at the  Mouth of the Cave
+    </label>
+
+    <br/>
+
+    <audio
+        id="echo1"
+        controls
+        src="https://www.tumblr.com/audio_file/aeb685/178455429508/tumblr_pfmm0sySC61wb545b">
+        Your browser does not support the <code>audio</code> element.
+    </audio>
+</p>
+
+<p>
+    <label for="echo2">
+       Echo at Level 1, Cavern B
+    </label>
+
+    <br/>
+
+  
+    <audio id="echo2" controls loop>
+        <source
+            type="audio/mpeg"
+            src="https://www.tumblr.com/audio_file/aeb685/178455460498/tumblr_pfmm2u0QDl1wb545b"/>
+        Your browser does not support the <code>audio</code> element.
+    </audio>
+</p>
+
+<p>
+    <label for="echo3">
+        Echo at Level 2, Cavern C
+    </label>
+
+    <br/>
+
+    <audio
+        id="echo3"
+        controls
+        src="https://www.tumblr.com/audio_file/aeb685/178455447888/tumblr_pfmm1zUzlV1wb545b">
+        Your browser does not support the <code>audio</code> element.
+    </audio>
+</p>
